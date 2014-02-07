@@ -6,5 +6,5 @@ I use the challenges as katas to practice coding in different languages (Python,
 
 The challenges solved so far are: 
 
-- Challenge 16 - Number of ones ().
+- Challenge 16 - Number of ones (in Python).
  
